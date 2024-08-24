@@ -2,7 +2,7 @@
 
 Overview
 This project is a comprehensive image processing application that integrates several advanced features, including object detection, face detection, image classification, and various image processing filters. The application leverages machine learning models like MobileNetV2 for classification and YOLOv3 for object detection, along with OpenCV for real-time image processing and GUI creation using Tkinter.
-
+ 
 Features
 Image Classification: Classify images using the MobileNetV2 model trained on the ImageNet dataset.
 Face Detection: Detect faces in images and live camera feeds using Haar cascades.
