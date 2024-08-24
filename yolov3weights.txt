@@ -1,0 +1,7 @@
+You can download the yolov3.weights file from the official website of YOLO (You Only Look Once) provided by Joseph Redmon, the creator of YOLO. 
+Here's the specific location:
+
+YOLOv3 Weights: 
+https://pjreddie.com/media/files/yolov3.weights
+
+This is the direct link to download the pre-trained weights used in the YOLOv3 object detection model.
